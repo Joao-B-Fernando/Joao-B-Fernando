@@ -2,9 +2,9 @@
 
  <div>
    <a href="https://github.com/Joao-B-Fernando">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-B-Fernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-B-Fernando&layout=compact&langs_count=6&theme=midnight-purple"/>
-
+  
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-B-Fernando&layout=compact&langs_count=6&theme=midnight-purple"/>
 
     
 </div>
